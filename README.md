@@ -1,6 +1,6 @@
-# G1 Robot Scene Interaction
+# G1 Robot 
 
-A contact-aware policy for retargeting SMPLX human motion to G1 humanoid robot in real-time.
+Some attempts and project reproductions.
 
 ## Initial result
 
